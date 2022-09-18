@@ -16,7 +16,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
-	public String hell0() {
+	public String helloWorld() {
 		return "Hello from @RestController";
 	}
 
